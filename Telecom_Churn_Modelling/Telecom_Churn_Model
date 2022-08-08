@@ -1,0 +1,42 @@
+Teleom_Churn_Modelling
+It's a predictive model that estimates — at the level of individual customers — the propensity (or susceptibility) they have to leave. For each customer at any given time, it tells us how high the risk is of losing them in the future.
+
+Customer Lifestyle:-
+    - Customer Acquisition: Bringing new customers to the business.
+        - Marketting Ads
+        - SMS/Whatsapp
+    - Customer Early Engagement: Customers are encouraged to take more usage of services.
+    - Cross sell and business growth: Selling addtional services and make the customer more engaged.
+    - Customer Retention
+        - Access profitability and retain the customers
+        - 
+
+Customer Acquisition:
+    - Come up with features or factors that can be predictive of customer value. Eg: CIBIL score(Higher the CIBIL score means    better post paid customer.) Q- Who get the post paid offer?
+
+Early Eng:
+    - What can be done to increase number of services.
+    - Which set of treatment can improve engagements?-digitally targetted ads
+
+Cross Sell:
+    - What additional things/services can be sold?
+    - Build a response model from earlier campaings.
+
+Customer Retention:
+    - Attrition(Cancelling any ongoing services/relationship )
+    - Retention is a method to stop or reduce attrition
+        - Reactive: Customer calls in and wants to cancel
+            - Profitability accessement
+            - Offers will be made
+        - Proactive: Predicting which customers are likely to attrite
+          (Our use case for the project)
+
+
+
+
+
+Project Objective:
+    Develop a predictive framework for enabling proactive retention strategy for a telecom company
+    
+Project Presentation flow:- (For )
+            - 
